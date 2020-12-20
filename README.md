@@ -1,1 +1,1 @@
-# eloquent-javascript-activities
+# Eloquent Javascript - Reference Guide
